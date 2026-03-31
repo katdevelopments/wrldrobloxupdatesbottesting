@@ -1,0 +1,11 @@
+{
+"notification_channel_id": null,
+"ping_role_id": null,
+"monitoring_enabled": true,
+"monitored_devices": [
+"windows",
+"mac",
+"android",
+"ios"
+]
+}
