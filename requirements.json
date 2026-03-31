@@ -1,0 +1,6 @@
+discord.py==2.3.2
+requests==2.23.0
+urllib3==1.25.11
+six==1.16.0
+google-play-scraper==1.2.7
+coloredlogs # Added for enhanced, colorful logging
